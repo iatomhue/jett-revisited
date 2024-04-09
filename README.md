@@ -1,8 +1,6 @@
 # JETT Library Revisited
 This is an updated version of the jett library to work on java 11 and POIv5.2.2 [^1]
-```
-mvn clean install
-```
+
 To run all the tests and class compiled get a jar.  [^1]
 In this release : [^1]
 Updated the underlying library of apache-poi to 5.2.2[^1]
